@@ -19,4 +19,5 @@ $ pipenv install
 
 # TODOs
 
+- [ ] Let owners delete their projects
 - [ ] Write unit tests
